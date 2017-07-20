@@ -1,0 +1,32 @@
+Num samples: 17
+Num observations: 3256
+Total count: 1396097
+Table density (fraction of non-zero values): 0.313
+
+Counts/sample summary:
+ Min: 55952.0
+ Max: 116047.0
+ Median: 83828.000
+ Mean: 82123.353
+ Std. dev.: 13613.616
+ Sample Metadata Categories: None provided
+ Observation Metadata Categories: taxonomy
+
+Counts/sample detail:
+ITS.Mia.9: 55952.0
+ITS.Mia.6: 57843.0
+ITS.Mia.14: 68619.0
+ITS.Mia.1: 76349.0
+ITS.Mia.10: 76771.0
+ITS.Mia.12: 77583.0
+ITS.Mia.8: 79819.0
+ITS.Mia.11: 82002.0
+ITS.Mia.5: 83828.0
+ITS.Mia.2: 84725.0
+ITS.Mia.4: 85873.0
+ITS.Mia.13: 86309.0
+ITS.Mia.16: 86908.0
+ITS.Mia.15: 87713.0
+ITS.Mia.3: 90738.0
+ITS.Mia.17: 99018.0
+ITS.Mia.7: 116047.0
