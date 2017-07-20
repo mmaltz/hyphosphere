@@ -1,0 +1,288 @@
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 35
+Result path: /tmp/assign-taxO7fUBH
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 27
+Result path: /tmp/assign-taxf3bCWc
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 18
+Result path: /tmp/assign-taxyiqggT
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 6
+Result path: /tmp/assign-taxqC2IiN
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 8
+Result path: /tmp/assign-taxg2JX57
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 13
+Result path: /tmp/assign-taxIcgVTW
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 28
+Result path: /tmp/assign-taxObfSKo
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 17
+Result path: /tmp/assign-taxi3gIVs
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 18
+Result path: /tmp/assign-taxATFhug
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 16
+Result path: /tmp/assign-taxCZtHgE
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 15
+Result path: /tmp/assign-taxgKcBUi
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 6
+Result path: /tmp/assign-taxGMGHKM
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 11
+Result path: /tmp/assign-taxQAM8Sq
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 7
+Result path: /tmp/assign-taxJBh6Aa
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 6
+Result path: /tmp/assign-taxKk6_pl
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 7
+Result path: /tmp/assign-tax8AqmZs
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 1
+Result path: /tmp/assign-taxPGp4nb
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 20
+Result path: /tmp/assign-taxX7ahX0
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 7
+Result path: /tmp/assign-taxGDAIum
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 22
+Result path: /tmp/assign-taxANL4Sb
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 20
+Result path: /tmp/assign-taxb7pqss
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 18
+Result path: /tmp/assign-taxyUgGOC
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 21
+Result path: /tmp/assign-taxNzAoW2
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 28
+Result path: /tmp/assign-taxTSj868
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 35
+Result path: /tmp/assign-taxv1Yyb3
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 35
+Result path: /tmp/assign-taxdK0ADb
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 18
+Result path: /tmp/assign-tax__aDMq
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 16
+Result path: /tmp/assign-taxzLB2XN
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 20
+Result path: /tmp/assign-tax0Gy1aE
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 19
+Result path: /tmp/assign-taxwgf4qV
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 102
+Number with no blast hits: 16
+Result path: /tmp/assign-taxslzeol
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/bigdata/stajichlab/shared/projects/Microbiome/data/MMaltz_FC534_2016-09/qiime_ITS_openref_nochimera/blast_assigned_taxonomy/BTA_V0Ltf_/sh_refs_qiime_ver7_dynamic_s_22.08.2016.fasta
+id_to_taxonomy_filepath:/srv/projects/db/UNITE/v7.1/sh_taxonomy_qiime_ver7_dynamic_s_22.08.2016.txt
+Number of sequences inspected: 94
+Number with no blast hits: 16
+Result path: /tmp/assign-taxcFmUbi
